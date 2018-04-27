@@ -1,0 +1,153 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="2ACF1137F4A9064987F8F27D340E2B11"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="10.3"
+   crs:ProcessVersion="10.0"
+   crs:Saturation="-15"
+   crs:Sharpness="39"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="26"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="+10"
+   crs:RedHue="+10"
+   crs:RedSaturation="0"
+   crs:GreenHue="+47"
+   crs:GreenSaturation="+10"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:Vibrance="+34"
+   crs:HueAdjustmentRed="+8"
+   crs:HueAdjustmentOrange="+8"
+   crs:HueAdjustmentYellow="+23"
+   crs:HueAdjustmentGreen="+35"
+   crs:HueAdjustmentAqua="+10"
+   crs:HueAdjustmentBlue="+15"
+   crs:HueAdjustmentPurple="+5"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="-23"
+   crs:SaturationAdjustmentOrange="-25"
+   crs:SaturationAdjustmentYellow="-81"
+   crs:SaturationAdjustmentGreen="-59"
+   crs:SaturationAdjustmentAqua="-54"
+   crs:SaturationAdjustmentBlue="-49"
+   crs:SaturationAdjustmentPurple="-10"
+   crs:SaturationAdjustmentMagenta="-25"
+   crs:LuminanceAdjustmentRed="-35"
+   crs:LuminanceAdjustmentOrange="+29"
+   crs:LuminanceAdjustmentYellow="-4"
+   crs:LuminanceAdjustmentGreen="-30"
+   crs:LuminanceAdjustmentAqua="-10"
+   crs:LuminanceAdjustmentBlue="+10"
+   crs:LuminanceAdjustmentPurple="-5"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="106"
+   crs:SplitToningShadowSaturation="4"
+   crs:SplitToningHighlightHue="19"
+   crs:SplitToningHighlightSaturation="5"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="-2"
+   crs:ParametricLights="-49"
+   crs:ParametricHighlights="-18"
+   crs:ParametricShadowSplit="14"
+   crs:ParametricMidtoneSplit="60"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="0"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:Contrast2012="+5"
+   crs:Highlights2012="-26"
+   crs:Shadows2012="-29"
+   crs:Whites2012="-74"
+   crs:Blacks2012="+47"
+   crs:Clarity2012="+1"
+   crs:Dehaze="0"
+   crs:ConvertToGrayscale="False"
+   crs:OverrideLookVignette="False"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="DVLOP V2"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Ah, My Eyes!</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Ah, My Eyes!</rdf:li>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">DVLOP - KRISTEN MARIE PARKER</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 3</rdf:li>
+     <rdf:li>43, 21</rdf:li>
+     <rdf:li>117, 122</rdf:li>
+     <rdf:li>179, 200</rdf:li>
+     <rdf:li>255, 243</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>45, 46</rdf:li>
+     <rdf:li>117, 117</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>46, 45</rdf:li>
+     <rdf:li>117, 117</rdf:li>
+     <rdf:li>179, 179</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>53, 42</rdf:li>
+     <rdf:li>80, 70</rdf:li>
+     <rdf:li>117, 117</rdf:li>
+     <rdf:li>179, 179</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

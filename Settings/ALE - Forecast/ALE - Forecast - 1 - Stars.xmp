@@ -1,0 +1,1332 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="402BAE03E6C695CD91D9CBD1D46B5CD5"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="10.3"
+   crs:ProcessVersion="6.7"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">ALE - Forecast - 1 - Stars</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">ALE - Forecast - 13 - Stars</rdf:li>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">ALE - Forecast</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:PaintBasedCorrections>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1.000000"
+       crs:CorrectionActive="true"
+       crs:LocalExposure="0.000000"
+       crs:LocalSaturation="0.000000"
+       crs:LocalContrast="0.000000"
+       crs:LocalClarity="0.000000"
+       crs:LocalSharpness="0.000000"
+       crs:LocalBrightness="1.000000"
+       crs:LocalToningHue="0.000000"
+       crs:LocalToningSaturation="0.000000"
+       crs:LocalExposure2012="0.990000"
+       crs:LocalContrast2012="0.000000"
+       crs:LocalHighlights2012="1.000000"
+       crs:LocalShadows2012="1.000000"
+       crs:LocalWhites2012="0.000000"
+       crs:LocalBlacks2012="0.000000"
+       crs:LocalClarity2012="0.000000"
+       crs:LocalDehaze="-0.262610"
+       crs:LocalLuminanceNoise="0.000000"
+       crs:LocalMoire="0.000000"
+       crs:LocalDefringe="0.000000"
+       crs:LocalTemperature="-1.000000"
+       crs:LocalTint="0.000000">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.010000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.503250 0.471826</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.020000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.557000 0.055597</rdf:li>
+           <rdf:li>d 0.556500 0.055973</rdf:li>
+           <rdf:li>d 0.477000 0.075883</rdf:li>
+           <rdf:li>d 0.477750 0.075883</rdf:li>
+           <rdf:li>d 0.477750 0.076634</rdf:li>
+           <rdf:li>d 0.515750 0.092036</rdf:li>
+           <rdf:li>d 0.517250 0.092036</rdf:li>
+           <rdf:li>d 0.516500 0.093163</rdf:li>
+           <rdf:li>d 0.437500 0.116829</rdf:li>
+           <rdf:li>d 0.844250 0.144628</rdf:li>
+           <rdf:li>d 0.621000 0.148760</rdf:li>
+           <rdf:li>d 0.621250 0.148760</rdf:li>
+           <rdf:li>d 0.621250 0.149136</rdf:li>
+           <rdf:li>d 0.277000 0.152141</rdf:li>
+           <rdf:li>d 0.737250 0.162284</rdf:li>
+           <rdf:li>d 0.356000 0.199850</rdf:li>
+           <rdf:li>d 0.356000 0.200225</rdf:li>
+           <rdf:li>d 0.680000 0.200601</rdf:li>
+           <rdf:li>d 0.679000 0.201728</rdf:li>
+           <rdf:li>d 0.679250 0.201728</rdf:li>
+           <rdf:li>d 0.123750 0.234035</rdf:li>
+           <rdf:li>d 0.123000 0.235162</rdf:li>
+           <rdf:li>d 0.832500 0.266717</rdf:li>
+           <rdf:li>d 0.932000 0.271225</rdf:li>
+           <rdf:li>d 0.751000 0.289632</rdf:li>
+           <rdf:li>d 0.239000 0.345229</rdf:li>
+           <rdf:li>d 0.239750 0.345605</rdf:li>
+           <rdf:li>d 0.299000 0.355372</rdf:li>
+           <rdf:li>d 0.298250 0.356123</rdf:li>
+           <rdf:li>d 0.237000 0.367017</rdf:li>
+           <rdf:li>d 0.419750 0.382795</rdf:li>
+           <rdf:li>d 0.599250 0.461683</rdf:li>
+           <rdf:li>d 0.460000 0.500751</rdf:li>
+           <rdf:li>d 0.784000 0.558227</rdf:li>
+           <rdf:li>d 0.783000 0.559354</rdf:li>
+           <rdf:li>d 0.659250 0.636364</rdf:li>
+           <rdf:li>d 0.855750 0.678813</rdf:li>
+           <rdf:li>d 0.486500 0.757701</rdf:li>
+           <rdf:li>d 0.889500 0.863636</rdf:li>
+           <rdf:li>d 0.075000 0.870398</rdf:li>
+           <rdf:li>d 0.075000 0.871150</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.030000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.556500 0.055222</rdf:li>
+           <rdf:li>d 0.076500 0.106687</rdf:li>
+           <rdf:li>d 0.437000 0.116829</rdf:li>
+           <rdf:li>d 0.621000 0.149136</rdf:li>
+           <rdf:li>d 0.277000 0.152517</rdf:li>
+           <rdf:li>d 0.736750 0.161908</rdf:li>
+           <rdf:li>d 0.679500 0.200225</rdf:li>
+           <rdf:li>d 0.299000 0.355748</rdf:li>
+           <rdf:li>d 0.298750 0.356123</rdf:li>
+           <rdf:li>d 0.366500 0.478212</rdf:li>
+           <rdf:li>d 0.460250 0.501878</rdf:li>
+           <rdf:li>d 0.784000 0.559730</rdf:li>
+           <rdf:li>d 0.143000 0.667168</rdf:li>
+           <rdf:li>d 0.855750 0.678062</rdf:li>
+           <rdf:li>d 0.889750 0.862885</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.040000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.000000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.437500 0.117205</rdf:li>
+           <rdf:li>d 0.737000 0.162284</rdf:li>
+           <rdf:li>d 0.508250 0.306536</rdf:li>
+           <rdf:li>d 0.508250 0.307288</rdf:li>
+           <rdf:li>d 0.835000 0.326446</rdf:li>
+           <rdf:li>d 0.834500 0.327198</rdf:li>
+           <rdf:li>d 0.237250 0.367017</rdf:li>
+           <rdf:li>d 0.347500 0.528550</rdf:li>
+           <rdf:li>d 0.783500 0.559730</rdf:li>
+           <rdf:li>d 0.143750 0.667543</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.050000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.556750 0.055222</rdf:li>
+           <rdf:li>d 0.076500 0.107062</rdf:li>
+           <rdf:li>d 0.437250 0.116829</rdf:li>
+           <rdf:li>d 0.737250 0.161908</rdf:li>
+           <rdf:li>d 0.558750 0.241923</rdf:li>
+           <rdf:li>d 0.508500 0.306536</rdf:li>
+           <rdf:li>d 0.298250 0.355748</rdf:li>
+           <rdf:li>d 0.806750 0.412472</rdf:li>
+           <rdf:li>d 0.184250 0.507137</rdf:li>
+           <rdf:li>d 0.143000 0.667919</rdf:li>
+           <rdf:li>d 0.486250 0.756198</rdf:li>
+           <rdf:li>d 0.074750 0.870774</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.060000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.477000 0.076634</rdf:li>
+           <rdf:li>d 0.863000 0.122840</rdf:li>
+           <rdf:li>d 0.863000 0.123216</rdf:li>
+           <rdf:li>d 0.123250 0.233659</rdf:li>
+           <rdf:li>d 0.347750 0.287378</rdf:li>
+           <rdf:li>d 0.347750 0.287754</rdf:li>
+           <rdf:li>d 0.750750 0.288881</rdf:li>
+           <rdf:li>d 0.237250 0.367769</rdf:li>
+           <rdf:li>d 0.420250 0.383171</rdf:li>
+           <rdf:li>d 0.806750 0.412096</rdf:li>
+           <rdf:li>d 0.460250 0.501503</rdf:li>
+           <rdf:li>d 0.660000 0.635988</rdf:li>
+           <rdf:li>d 0.356500 0.699850</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.070000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.174500 0.103306</rdf:li>
+           <rdf:li>d 0.437000 0.117205</rdf:li>
+           <rdf:li>d 0.863500 0.123216</rdf:li>
+           <rdf:li>d 0.355500 0.199850</rdf:li>
+           <rdf:li>d 0.835250 0.327198</rdf:li>
+           <rdf:li>d 0.238500 0.345605</rdf:li>
+           <rdf:li>d 0.599250 0.461307</rdf:li>
+           <rdf:li>d 0.347500 0.528174</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.080000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.863500 0.122840</rdf:li>
+           <rdf:li>d 0.844500 0.145379</rdf:li>
+           <rdf:li>d 0.277750 0.152517</rdf:li>
+           <rdf:li>d 0.737000 0.161908</rdf:li>
+           <rdf:li>d 0.355500 0.200225</rdf:li>
+           <rdf:li>d 0.679000 0.200225</rdf:li>
+           <rdf:li>d 0.122750 0.233659</rdf:li>
+           <rdf:li>d 0.931500 0.271600</rdf:li>
+           <rdf:li>d 0.238500 0.345980</rdf:li>
+           <rdf:li>d 0.420000 0.383171</rdf:li>
+           <rdf:li>d 0.271250 0.399699</rdf:li>
+           <rdf:li>d 0.598500 0.461307</rdf:li>
+           <rdf:li>d 0.459500 0.501503</rdf:li>
+           <rdf:li>d 0.855250 0.678437</rdf:li>
+           <rdf:li>d 0.855250 0.678813</rdf:li>
+           <rdf:li>d 0.356500 0.700225</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.090000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.298500 0.356123</rdf:li>
+           <rdf:li>d 0.347000 0.528550</rdf:li>
+           <rdf:li>d 0.659250 0.635988</rdf:li>
+           <rdf:li>d 0.855500 0.678062</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.100000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.516250 0.091660</rdf:li>
+           <rdf:li>d 0.516750 0.091660</rdf:li>
+           <rdf:li>d 0.277750 0.152141</rdf:li>
+           <rdf:li>d 0.355750 0.199850</rdf:li>
+           <rdf:li>d 0.355750 0.200225</rdf:li>
+           <rdf:li>d 0.679500 0.200977</rdf:li>
+           <rdf:li>d 0.508250 0.306912</rdf:li>
+           <rdf:li>d 0.508500 0.306912</rdf:li>
+           <rdf:li>d 0.835250 0.326822</rdf:li>
+           <rdf:li>d 0.420250 0.382795</rdf:li>
+           <rdf:li>d 0.598500 0.461683</rdf:li>
+           <rdf:li>d 0.459500 0.501878</rdf:li>
+           <rdf:li>d 0.783750 0.559730</rdf:li>
+           <rdf:li>d 0.077000 0.849361</rdf:li>
+           <rdf:li>d 0.075000 0.870774</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.110000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.556500 0.055597</rdf:li>
+           <rdf:li>d 0.077000 0.106687</rdf:li>
+           <rdf:li>d 0.437250 0.117205</rdf:li>
+           <rdf:li>d 0.123250 0.234410</rdf:li>
+           <rdf:li>d 0.237000 0.367393</rdf:li>
+           <rdf:li>d 0.420000 0.382795</rdf:li>
+           <rdf:li>d 0.271250 0.399324</rdf:li>
+           <rdf:li>d 0.184000 0.507513</rdf:li>
+           <rdf:li>d 0.076250 0.848986</rdf:li>
+           <rdf:li>d 0.889750 0.862134</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.120000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.556750 0.055597</rdf:li>
+           <rdf:li>d 0.477750 0.076258</rdf:li>
+           <rdf:li>d 0.076750 0.106687</rdf:li>
+           <rdf:li>d 0.844250 0.146131</rdf:li>
+           <rdf:li>d 0.751250 0.288881</rdf:li>
+           <rdf:li>d 0.750750 0.289256</rdf:li>
+           <rdf:li>d 0.834750 0.327573</rdf:li>
+           <rdf:li>d 0.806250 0.412096</rdf:li>
+           <rdf:li>d 0.183750 0.507137</rdf:li>
+           <rdf:li>d 0.183750 0.507513</rdf:li>
+           <rdf:li>d 0.347000 0.528174</rdf:li>
+           <rdf:li>d 0.659500 0.635612</rdf:li>
+           <rdf:li>d 0.659750 0.635612</rdf:li>
+           <rdf:li>d 0.659750 0.636364</rdf:li>
+           <rdf:li>d 0.486750 0.756950</rdf:li>
+           <rdf:li>d 0.076250 0.849361</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.130000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.077000 0.107062</rdf:li>
+           <rdf:li>d 0.863250 0.122840</rdf:li>
+           <rdf:li>d 0.863250 0.123216</rdf:li>
+           <rdf:li>d 0.298500 0.355372</rdf:li>
+           <rdf:li>d 0.347250 0.528550</rdf:li>
+           <rdf:li>d 0.143250 0.667168</rdf:li>
+           <rdf:li>d 0.143500 0.667168</rdf:li>
+           <rdf:li>d 0.855750 0.678437</rdf:li>
+           <rdf:li>d 0.855500 0.678813</rdf:li>
+           <rdf:li>d 0.357250 0.700225</rdf:li>
+           <rdf:li>d 0.486500 0.756198</rdf:li>
+           <rdf:li>d 0.077000 0.848986</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.140000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.844500 0.145755</rdf:li>
+           <rdf:li>d 0.347250 0.287378</rdf:li>
+           <rdf:li>d 0.239250 0.345980</rdf:li>
+           <rdf:li>d 0.806250 0.412472</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.150000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.516750 0.092412</rdf:li>
+           <rdf:li>d 0.184000 0.507137</rdf:li>
+           <rdf:li>d 0.143500 0.667919</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.160000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.679250 0.200225</rdf:li>
+           <rdf:li>d 0.931000 0.270849</rdf:li>
+           <rdf:li>d 0.806500 0.412096</rdf:li>
+           <rdf:li>d 0.347250 0.528174</rdf:li>
+           <rdf:li>d 0.659500 0.636364</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.170000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.123000 0.233659</rdf:li>
+           <rdf:li>d 0.931500 0.270849</rdf:li>
+           <rdf:li>d 0.751000 0.288881</rdf:li>
+           <rdf:li>d 0.357250 0.699850</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.180000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.477000 0.076258</rdf:li>
+           <rdf:li>d 0.076750 0.107062</rdf:li>
+           <rdf:li>d 0.931000 0.271600</rdf:li>
+           <rdf:li>d 0.347500 0.287378</rdf:li>
+           <rdf:li>d 0.806500 0.412472</rdf:li>
+           <rdf:li>d 0.143000 0.667543</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.190000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.477250 0.075883</rdf:li>
+           <rdf:li>d 0.783500 0.558978</rdf:li>
+           <rdf:li>d 0.889250 0.862885</rdf:li>
+           <rdf:li>d 0.889500 0.862885</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.200000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.751250 0.289256</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.210000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.477500 0.075883</rdf:li>
+           <rdf:li>d 0.174750 0.104057</rdf:li>
+           <rdf:li>d 0.559000 0.242675</rdf:li>
+           <rdf:li>d 0.239250 0.345605</rdf:li>
+           <rdf:li>d 0.889250 0.862134</rdf:li>
+           <rdf:li>d 0.282750 0.888430</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.220000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.347250 0.287754</rdf:li>
+           <rdf:li>d 0.298750 0.355372</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.240000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.844000 0.145379</rdf:li>
+           <rdf:li>d 0.844000 0.146131</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.250000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.516500 0.091660</rdf:li>
+           <rdf:li>d 0.516250 0.092412</rdf:li>
+           <rdf:li>d 0.347500 0.287754</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.260000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.931250 0.271600</rdf:li>
+           <rdf:li>d 0.237250 0.367393</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.270000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.477500 0.076634</rdf:li>
+           <rdf:li>d 0.143250 0.667919</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.300000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.855500 0.678437</rdf:li>
+           <rdf:li>d 0.486750 0.756574</rdf:li>
+           <rdf:li>d 0.889500 0.862134</rdf:li>
+           <rdf:li>d 0.889750 0.862509</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.320000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.931250 0.270849</rdf:li>
+           <rdf:li>d 0.751000 0.289256</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.330000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.679500 0.200601</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.340000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.122750 0.234410</rdf:li>
+           <rdf:li>d 0.282750 0.887678</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.360000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.784000 0.558978</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.370000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.477250 0.076634</rdf:li>
+           <rdf:li>d 0.174750 0.103681</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.390000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.516500 0.092412</rdf:li>
+           <rdf:li>d 0.277250 0.152141</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.410000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.559000 0.242299</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.420000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.277500 0.152141</rdf:li>
+           <rdf:li>d 0.123250 0.234035</rdf:li>
+           <rdf:li>d 0.123000 0.234410</rdf:li>
+           <rdf:li>d 0.599000 0.461683</rdf:li>
+           <rdf:li>d 0.460000 0.501503</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.430000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.679000 0.200977</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.440000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.679250 0.200977</rdf:li>
+           <rdf:li>d 0.298750 0.355748</rdf:li>
+           <rdf:li>d 0.459750 0.501503</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.450000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.659750 0.635988</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.460000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.460000 0.501878</rdf:li>
+           <rdf:li>d 0.783500 0.559354</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.470000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.599000 0.461307</rdf:li>
+           <rdf:li>d 0.486250 0.756950</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.480000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.834750 0.326822</rdf:li>
+           <rdf:li>d 0.598750 0.461307</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.490000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.277250 0.152517</rdf:li>
+           <rdf:li>d 0.486500 0.756950</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.500000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.298500 0.355748</rdf:li>
+           <rdf:li>d 0.659500 0.635988</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.510000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.277500 0.152517</rdf:li>
+           <rdf:li>d 0.783750 0.558978</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.520000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.283000 0.887678</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.530000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.844000 0.145755</rdf:li>
+           <rdf:li>d 0.931500 0.271225</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.540000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.558500 0.242675</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.560000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.844250 0.145379</rdf:li>
+           <rdf:li>d 0.283000 0.888054</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.580000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.516750 0.092036</rdf:li>
+           <rdf:li>d 0.834750 0.327198</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.590000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.835000 0.327198</rdf:li>
+           <rdf:li>d 0.598750 0.461683</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.610000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.174250 0.104057</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.630000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.459750 0.501878</rdf:li>
+           <rdf:li>d 0.143500 0.667543</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.640000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.784000 0.559354</rdf:li>
+           <rdf:li>d 0.356750 0.699850</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.660000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.558500 0.242299</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.680000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.558750 0.242675</rdf:li>
+           <rdf:li>d 0.076500 0.848986</rdf:li>
+           <rdf:li>d 0.076750 0.849361</rdf:li>
+           <rdf:li>d 0.282750 0.888054</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.690000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.516250 0.092036</rdf:li>
+           <rdf:li>d 0.174500 0.104057</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.700000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.076750 0.848986</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.710000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.174250 0.103681</rdf:li>
+           <rdf:li>d 0.931000 0.271225</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.720000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.357000 0.699850</rdf:li>
+           <rdf:li>d 0.357000 0.700225</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.730000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.239000 0.345980</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.760000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.238750 0.345605</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.780000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.122750 0.234035</rdf:li>
+           <rdf:li>d 0.238750 0.345980</rdf:li>
+           <rdf:li>d 0.486250 0.756574</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.790000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.143250 0.667543</rdf:li>
+           <rdf:li>d 0.356750 0.700225</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.800000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.076500 0.849361</rdf:li>
+           <rdf:li>d 0.889250 0.862509</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.810000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.844250 0.145755</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.830000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.239000 0.345605</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.850000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.679000 0.200601</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.870000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.835000 0.326822</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.910000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.477500 0.076258</rdf:li>
+           <rdf:li>d 0.486500 0.756574</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.920000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.558750 0.242299</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="0.940000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.174500 0.103681</rdf:li>
+           <rdf:li>d 0.889500 0.862509</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+         <rdf:Description
+          crs:What="Mask/Paint"
+          crs:MaskValue="1.000000"
+          crs:Radius="0.000500"
+          crs:Flow="1.000000"
+          crs:CenterWeight="0.300000">
+         <crs:Dabs>
+          <rdf:Seq>
+           <rdf:li>d 0.477250 0.076258</rdf:li>
+           <rdf:li>d 0.516500 0.092036</rdf:li>
+           <rdf:li>d 0.679250 0.200601</rdf:li>
+           <rdf:li>d 0.123000 0.234035</rdf:li>
+           <rdf:li>d 0.931250 0.271225</rdf:li>
+           <rdf:li>d 0.783750 0.559354</rdf:li>
+          </rdf:Seq>
+         </crs:Dabs>
+         </rdf:Description>
+        </rdf:li>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      <crs:CorrectionRangeMask
+       crs:Version="+2"
+       crs:Type="0"
+       crs:ColorAmount="0.500000"
+       crs:LumMin="0.000000"
+       crs:LumMax="1.000000"
+       crs:LumFeather="0.500000"/>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:PaintBasedCorrections>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

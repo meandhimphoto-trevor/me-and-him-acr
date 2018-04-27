@@ -1,0 +1,126 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="D51997EA8E536A76891E24AE4A2252E7"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="10.3"
+   crs:ProcessVersion="10.0"
+   crs:Saturation="-10"
+   crs:ShadowTint="0"
+   crs:RedHue="+33"
+   crs:RedSaturation="-8"
+   crs:GreenHue="+48"
+   crs:GreenSaturation="-22"
+   crs:BlueHue="-10"
+   crs:BlueSaturation="-15"
+   crs:Vibrance="-9"
+   crs:HueAdjustmentRed="-8"
+   crs:HueAdjustmentOrange="+8"
+   crs:HueAdjustmentYellow="+17"
+   crs:HueAdjustmentGreen="+23"
+   crs:HueAdjustmentAqua="-8"
+   crs:HueAdjustmentBlue="-4"
+   crs:HueAdjustmentPurple="-6"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="-10"
+   crs:SaturationAdjustmentOrange="-10"
+   crs:SaturationAdjustmentYellow="+6"
+   crs:SaturationAdjustmentGreen="-31"
+   crs:SaturationAdjustmentAqua="-18"
+   crs:SaturationAdjustmentBlue="-14"
+   crs:SaturationAdjustmentPurple="-18"
+   crs:SaturationAdjustmentMagenta="-44"
+   crs:LuminanceAdjustmentRed="-13"
+   crs:LuminanceAdjustmentOrange="-8"
+   crs:LuminanceAdjustmentYellow="-3"
+   crs:LuminanceAdjustmentGreen="-15"
+   crs:LuminanceAdjustmentAqua="-3"
+   crs:LuminanceAdjustmentBlue="-12"
+   crs:LuminanceAdjustmentPurple="+8"
+   crs:LuminanceAdjustmentMagenta="+4"
+   crs:ParametricShadows="-13"
+   crs:ParametricDarks="-3"
+   crs:ParametricLights="-4"
+   crs:ParametricHighlights="-10"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:Contrast2012="+91"
+   crs:Highlights2012="-39"
+   crs:Shadows2012="+36"
+   crs:Whites2012="-34"
+   crs:Blacks2012="+100"
+   crs:ConvertToGrayscale="False"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Adobe Standard"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">1c. Portra 400 + 1 CP</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">1c. Portra 400 + 1 CP</rdf:li>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Mastin Labs Portra Pushed - Canon</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>32, 13</rdf:li>
+     <rdf:li>64, 35</rdf:li>
+     <rdf:li>127, 112</rdf:li>
+     <rdf:li>191, 199</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

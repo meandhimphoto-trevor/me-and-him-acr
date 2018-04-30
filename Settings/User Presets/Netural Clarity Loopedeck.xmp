@@ -4,7 +4,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    crs:PresetType="Normal"
    crs:Cluster=""
-   crs:UUID="4CDC5187FA0EF4AAB000D4576F22AE51"
+   crs:UUID="D03E7616DE510DDBBD371B98E51CA114"
    crs:SupportsAmount="False"
    crs:SupportsColor="True"
    crs:SupportsMonochrome="True"
@@ -17,16 +17,11 @@
    crs:ContactInfo=""
    crs:Version="10.3"
    crs:ProcessVersion="6.7"
-   crs:LuminanceSmoothing="20"
-   crs:ColorNoiseReduction="30"
-   crs:LuminanceNoiseReductionDetail="50"
-   crs:ColorNoiseReductionDetail="50"
-   crs:LuminanceNoiseReductionContrast="0"
-   crs:ColorNoiseReductionSmoothness="50"
+   crs:Clarity2012="0"
    crs:HasSettings="True">
    <crs:Name>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">Lumey</rdf:li>
+     <rdf:li xml:lang="x-default">Netural Clarity Loopedeck</rdf:li>
     </rdf:Alt>
    </crs:Name>
    <crs:ShortName>
@@ -36,12 +31,12 @@
    </crs:ShortName>
    <crs:SortName>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">Lumey</rdf:li>
+     <rdf:li xml:lang="x-default"/>
     </rdf:Alt>
    </crs:SortName>
    <crs:Group>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">ME+HIM PRESETS</rdf:li>
+     <rdf:li xml:lang="x-default">User Presets</rdf:li>
     </rdf:Alt>
    </crs:Group>
    <crs:Description>

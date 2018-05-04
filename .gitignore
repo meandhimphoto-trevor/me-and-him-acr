@@ -6,5 +6,6 @@ LocalCorrections/
 ModelSupport/
 Tables/
 Workflow/
-
 Settings/Index*
+Settings/Index*.dat
+*.dat
